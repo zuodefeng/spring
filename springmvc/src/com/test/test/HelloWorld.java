@@ -1,8 +1,5 @@
 package com.test.test;
 
-/**
- * Created by admin on 2016/11/30.
- */
 public class HelloWorld {
 
     private String name;
